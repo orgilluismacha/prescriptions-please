@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Date" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAEAAAQAAAAAAAAAAFAgAgAAQAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAIAAA=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Identifiable" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAQAAAAAAAAAAAAAAAAAAAAAEAABAAAQEAQAAAAA=</HashCode>
+      <FileName>Identifiable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prescription" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAQABQAAACIAEAAAQAAAAAAAAABBAAAAEIABAAAA=</HashCode>
+      <FileName>Prescription.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeMadeString::String" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhQCAAAAEAAAAQAAAAQAAAAEAAAIAABAgAAAAwAA=</HashCode>
+      <FileName>String.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+YES 
+NO name
+NO ID
+YES
+NO name dob 
+YES
+YES
+NO invalid
+NO name
+NO name 
